@@ -20,4 +20,4 @@
   
  ##
   
-   ![Snake animation](https://github.com/Zanng/Zanng/blob/output/github-contribution-grid-snake.svg)
+ 
